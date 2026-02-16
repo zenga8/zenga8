@@ -1,4 +1,4 @@
-# Angela Zeng's Professional Profile
+# Welcome to my Github!
 
 ## Summary
 A motivated software developer with internship experiences at **Citi** and **IBM**, specializing in backend development and distributed systems. Seeking to leverage my skills in developing scalable applications and contributing to high-impact projects.
